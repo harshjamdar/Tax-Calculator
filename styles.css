@@ -1,0 +1,14 @@
+/* Basic layout styles */
+.error-icon {
+    color: red;
+    display: none; /* Hidden by default */
+}
+
+/* Modal styles - adjust as needed */
+.modal-header {
+    border-bottom: 1px solid #ddd;
+}
+
+.modal-body {
+    padding: 20px;
+} 
